@@ -25,12 +25,16 @@ const Landing: React.FC = () => {
     async function handleQueryAnime(event:FormEvent ){
         event.preventDefault();
 
-        const response = await api.get<Anime>(`/search/anime?q=${query}&page=1`);
-        const { results } =  response.data;
+        try {
 
-        setAnime({ results: results  });
-        setQuery('');
-
+            const response = await api.get<Anime>(`/search/anime?q=${query}&page=1`);
+            const { results } =  response.data;
+    
+            setAnime({ results: results  });
+            setQuery('');            
+        } catch (error) {
+            alert('Anime não localizado');
+        }
     }
 
     return(
