@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h1 align="center"><img src="" alt="infosfera"/></h1>
+    <h1 align="center">⚔️Infosfera⚔️</h1>
 </h1>
 <p align="center"> </p>
 
