@@ -10,7 +10,7 @@
  <a href="#clone">Clonar Repositório</a> 
  <a href="#autor">Autor</a> 
 </p>
-<p  align="center"><a href=""><img alt="GitHub license" src=""></a></p>
+<p  align="center"><a href="https://github.com/AndrewReis/infosfera/blob/master/LICENSE"><img alt="GitHub license" src=""></a></p>
 
 <h4 align="center"> 
     🚀  Projeto finalizado.  🚀
