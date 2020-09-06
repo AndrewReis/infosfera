@@ -17,7 +17,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="Banner" title="#Banner" src="" />
+  <img alt="Banner" title="#Banner" src="https://github.com/AndrewReis/infosfera/blob/master/src/assets/banner.png" />
 </h1>
 
 
@@ -27,8 +27,12 @@
 
 <p align="center">
 	Aperfeiçoar o conhecimento de consumir uma API REST no frontend, utilizando typescript. 
-
 </p>
+
+
+<h1 align="center">
+  <img alt="mosaico" src="https://github.com/AndrewReis/infosfera/blob/master/src/assets/mosaico.png" />
+</h1>
     
 
 
